@@ -79,6 +79,9 @@ export default hopeTheme({
       notationHighlight: true,
       notationErrorLevel: true,
     },
+    math: {
+      type: "katex",
+    },
     include: true,
     tabs: true,
     codeTabs: true,
